@@ -20,18 +20,20 @@
 - what time is it?
 
 ## intent:find_time_zone_for_location
-- what is the time zone of London?
-- time zone of Lisbon
-- do you know the time zone of Berlin
-- i need to know the time zone of Mumbai
-
+- what is the time zone of [London](city)?
+- time zone of [Lisbon](city)
+- do you know the time zone of [Berlin](city)
+- i need to know the time zone of [Mumbai](city)
+- what is time in [parague](city)
+- timezone of [oslo](city)?
+- [Oslo](city) time zone
 ## intent:city_info
-- London
-- San Francisco
-- New Delhi
-- Oslo
-- Auckland
-- Toronto
+- [London](city)
+- [San Francisco](city)
+- [New Delhi](city)
+- [Oslo](city)
+- [Auckland](city)
+- [Toronto](city)
 
 ## intent:thanks
 - thank you

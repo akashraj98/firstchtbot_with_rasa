@@ -3,8 +3,8 @@
   - utter_goodbye
 
 ## ask for time zone long
-* great
-  - utter_great
+* greet
+  - utter_greet
 * find_time_zone
   - utter_ask_location
 * city_info
@@ -14,8 +14,8 @@
   - utter_goodbye
 
 ## ask for time zone long
-* great
-  - utter_great
+* greet
+  - utter_greet
 * find_time_zone
   - utter_ask_location
 * thanks
